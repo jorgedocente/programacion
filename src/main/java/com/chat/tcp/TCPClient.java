@@ -23,6 +23,12 @@ class TCPClient {
     DataOutputStream fsalida;
     String nombre;
 
+    /**
+     * 
+     * @param host
+     * @param puerto
+     * @param nombre 
+     */
     TCPClient(String host, int puerto, String nombre) {
         this.nombre = nombre;
         this.puerto = puerto;
