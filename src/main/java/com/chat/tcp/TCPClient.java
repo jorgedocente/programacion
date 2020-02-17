@@ -24,7 +24,6 @@ class TCPClient {
     String nombre;
 
     /**
-     * Otra Prueba
      * @param host
      * @param puerto
      * @param nombre 
