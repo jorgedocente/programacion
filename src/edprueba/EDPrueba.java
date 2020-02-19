@@ -18,7 +18,7 @@ public class EDPrueba {
         // TODO code application logic here
         System.out.println("Hola Clase");
         
-        //Prueba
+        //Prueba again
     }
     
 }
